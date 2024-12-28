@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959608072293",
+    "project_id": "todo-list-be87b",
+    "storage_bucket": "todo-list-be87b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959608072293:android:24f0a1996e121a5af07e8c",
+        "android_client_info": {
+          "package_name": "com.domain.planit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNQI_66Mfxjx7u7q4m8eHJOw-m7lHP7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
