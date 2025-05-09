@@ -1,0 +1,2 @@
+C:/Users/Lenovo-Ideapad/Desktop/FLUTTER/A GITER/Flutter_todolist_firebase/android/app/.cxx/Debug/86q6e4y3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo-Ideapad/Desktop/FLUTTER/A GITER/Flutter_todolist_firebase/android/app/.cxx/Debug/86q6e4y3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
